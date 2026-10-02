@@ -1,0 +1,92 @@
+[
+    {
+        "cliente": "Carlos",
+        "marca": "Samsung",
+        "modelo": "A54",
+        "problema": "Pantalla rota",
+        "costo": "1500",
+        "estado": "En reparación",
+        "foto": "cel1.png"
+    },
+    {
+        "cliente": "María",
+        "marca": "Apple",
+        "modelo": "iPhone 13",
+        "problema": "La batería dura muy poco",
+        "costo": "900",
+        "estado": "Terminado",
+        "foto": "cel2.png"
+    },
+    {
+        "cliente": "Luis",
+        "marca": "Motorola",
+        "modelo": "G84",
+        "problema": "El equipo no enciende",
+        "costo": "700",
+        "estado": "Pendiente",
+        "foto": "cel3.png"
+    },
+    {
+        "cliente": "Rosa",
+        "marca": "Samnsung",
+        "modelo": "1",
+        "problema": "no sirve",
+        "costo": "500",
+        "estado": "Pendiente",
+        "foto": "cel3.png"
+    },
+    {
+        "cliente": "Jane",
+        "marca": "Samsung",
+        "modelo": "A20",
+        "problema": "Pantalla rota",
+        "costo": "1500",
+        "estado": "En reparación",
+        "foto": "cel1.png"
+    },
+    {
+        "cliente": "Daniel",
+        "marca": "Apple",
+        "modelo": "iPhone 15",
+        "problema": "Pantalla rota",
+        "costo": "1900",
+        "estado": "Terminado",
+        "foto": "cel1.png"
+    },
+    {
+        "cliente": "Luis",
+        "marca": "Huawei",
+        "modelo": "P30",
+        "problema": "El equipo no enciende",
+        "costo": "700",
+        "estado": "Pendiente",
+        "foto": "cel3.png"
+    },
+    {
+        "cliente": "Angelica",
+        "marca": "Samnsung",
+        "modelo": "Galaxy 20",
+        "problema": "Pantalla rota",
+        "costo": "1500",
+        "estado": "Pendiente",
+        "foto": "cel1.png"
+    },
+    {
+        "cliente": "Emilio",
+        "marca": "Samnsung",
+        "modelo": "Galaxy 11",
+        "problema": "El equipo no enciende",
+        "costo": "900",
+        "estado": "Pendiente",
+        "foto": "cel3.png"
+    },
+    {
+        "cliente": "Santiago",
+        "marca": "Samsung",
+        "modelo": "Galaxy 40 Flip",
+        "problema": "No enciende",
+        "costo": "900",
+        "estado": "En reparación",
+        "foto": "cel2.png"
+    }
+]
